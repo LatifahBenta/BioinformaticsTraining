@@ -64,7 +64,7 @@ Quorum sensing in gram positive bacteria is based on the detection and productio
 Here we will use *Staphylococcus aereus* which is encoded by the accessory gene regulator (*agr*)
 
 Where as Quorum Sensing plays a role in Biofilm formation in *P.aerigunosa* , it does the opposite for *Staphylococcus aureus* where it inhibits the Biofilm formation by downregulating adhesins.
--
+
 
 
 
