@@ -65,6 +65,11 @@ Here we will use *Staphylococcus aereus* which is encoded by the accessory gene 
 
 Where as Quorum Sensing plays a role in Biofilm formation in *P.aerigunosa* , it does the opposite for *Staphylococcus aureus* where it inhibits the Biofilm formation by downregulating adhesins.
 
+![Quorum Sensing system agr in *S.aureus*](https://pub.mdpi-res.com/sensors/sensors-13-05130/article_deploy/html/images/sensors-13-05130f1.png?1403326721)
+
+**More work needs to be done on _Quorum sensing_ as this might provide a new insight in Antibacterial therapy**
+
+
 
 
 
