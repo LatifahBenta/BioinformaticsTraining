@@ -58,5 +58,9 @@ The command to use is ***$ conda install Fastqc***
 We use the same command to install multiqc ***$ conda install Multiqc***
 
  **Proceed with y**
+### Confirming our packages. 
+We use the command ***$conda list*** to confirm if our packages are within the environment.
+
+**We are all set now** :+1:
 
 
