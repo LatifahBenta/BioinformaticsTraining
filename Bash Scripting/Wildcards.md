@@ -17,4 +17,6 @@ An example of the use of ***question marks***
 `alkanes  animal-counts  creatures  numbers.txt  writing`
 
 
-An example of combining **
+An example of combining **asteriks** and **question marks**
+
+
