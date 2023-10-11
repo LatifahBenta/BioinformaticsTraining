@@ -1,3 +1,4 @@
+## Contigs
 Originally ***contigs*** were defined by Staden as a set of gel readings that are related to one another by overlap of their sequences.
 
 A **Contig** is a set of overlapping DNA segments that together represent a Consensus region of DNA.
@@ -32,15 +33,23 @@ The assembly of a contig map involves several steps.
 Since these clones should cover the entire genome/chromosome, it is theoretically possible to assemble a contig of BACs that covers the entire chromosome.
 
 
-***Scaffolds*** is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones.
+## Scaffold 
+A scaffold is a portion of the genome sequence reconstructed from end-sequenced whole-genome shotgun clones.
 Scaffolds are composed of contigs and gaps.
 
 Gaps occur where reads from the two sequenced ends of at least one fragment overlap with other reads in two different contigs (as long as the arrangement is otherwise consistent with the contigs being adjacent). 
 Since the lengths of the fragments are roughly known, the number of bases between contigs can be estimated. 
 
-**N50** is a statistic that defines assembly quality in terms of Contiguity.
+## N50
+N50 is a statistic that defines assembly quality in terms of Contiguity.
 
 Given a set of contigs, the N50 is defined as the sequence length of the shortest contig at 50% of the total assembly length.
 
-t can be thought of as the point of half of the mass of the distribution; the number of bases from all contigs longer than the N50 will be close to the number of bases from all contigs shorter than the N50
+It can be thought of as the point of half of the mass of the distribution; the number of bases from all contigs longer than the N50 will be close to the number of bases from all contigs shorter than the N50.
+
+## De Novo Assembly.
+
+De novo genome assembly is a strategy for genome assembly, representing the genome assembly of a novel genome from scratch without the aid of reference genomic data. 
+
+De novo genome assemblies assume no prior knowledge of the source DNA sequence length, layout or composition.
 
