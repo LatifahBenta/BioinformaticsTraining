@@ -49,8 +49,24 @@ In this environment i installed flye using the command `conda install -c biocond
 
 To assemble the sequence i used the command `flye --nano-raw SRR26270940.fastqc -o SRR26270940.fasta`
 
-Our output is a **FASTA** file which is assembled.
+Our output is a **FASTA** file which is assembled called **SRR26270940.fasta**
 
 Time to Visualize our data 🤝
+
+## BANDAGE (Bioinformatics Application for Navigating De novo Assembly Graphs Easily).
+
+Bandage is a GUI program that allows users to interact with the assembly graphs made by de novo assemblers
+
+De novo assembly graphs contain not only assembled contigs but also the connections between those contigs which were previously not easily accessible.
+
+Remember the Fasta file we got after using flye to perform the assembly. There is a **.gfa** file in it and that is what we will visualize with the help of Bandage.
+
+We will first navigate to the Fasta file using the command `cd SRR26270940.fasta`
+
+To visualize, we use the command `Bandage load assembly_graph.gfa`
+
+
+
+
 
 
