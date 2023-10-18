@@ -10,7 +10,7 @@ On the NCBI website page, navigate to the search bar, click the dropdown menu (*
 
 Choose the Advanced settings that allows you to do a ***Boolean search***. This allows you to key in a string of characteristics in a single search.
 
-My search string dor this search was **(Oxford Nanopore[Platform]) AND Bacteria[Organism]**
+My search string for this search was **(Oxford Nanopore[Platform]) AND Bacteria[Organism]**
 
 I settled on  the Accession number ***SRR26270940*** which is a sequence for *E.coli* and has a size of 2.6Mb and downloaded the Fastq format of the sequence.
 
