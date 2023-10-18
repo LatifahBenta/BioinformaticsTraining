@@ -47,6 +47,10 @@ I created a new environment called **Flye** using the command `conda create -n F
 
 In this environment i installed flye using the command `conda install -c bioconda Flye`
 
-To assemble the
+To assemble the sequence i used the command `flye --nano-raw SRR26270940.fastqc -o SRR26270940.fasta`
+
+Our output is a **FASTA** file which is assembled.
+
+Time to Visualize our data 🤝
 
 
