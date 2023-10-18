@@ -53,6 +53,7 @@ Our output is a **FASTA** file which is assembled called **SRR26270940.fasta**
 
 Time to Visualize our data 🤝
 
+
 ## BANDAGE (Bioinformatics Application for Navigating De novo Assembly Graphs Easily).
 
 Bandage is a GUI program that allows users to interact with the assembly graphs made by de novo assemblers
@@ -64,6 +65,13 @@ Remember the Fasta file we got after using flye to perform the assembly. There i
 We will first navigate to the Fasta file using the command `cd SRR26270940.fasta`
 
 To visualize, we use the command `Bandage load assembly_graph.gfa`
+
+On the interactive window by Bandage click **Draw graph** 
+
+The following image will appear ![SRR26270940 Image](https://github.com/LatifahBenta/BioinformaticsTraining/blob/main/Quality%20control/Screenshot%20from%202023-10-18%2011-40-23.png?raw=true)
+
+Voilla!!! 👏
+
 
 
 
