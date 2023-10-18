@@ -43,6 +43,8 @@ It is designed for a wide range of data sets, from small bacterial projects to l
 
 It takes in raw Pacbio or Oxford Nanopore technologies reads as inputs and outputs polished contigs.
 
+Flye allows you to assemble a zipped file.
+
 I created a new environment called **Flye** using the command `conda create -n Flye` and activated it using the command `conda activate Flye`
 
 In this environment i installed flye using the command `conda install -c bioconda Flye`
