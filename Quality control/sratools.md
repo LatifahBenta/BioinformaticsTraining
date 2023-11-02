@@ -38,6 +38,18 @@ I got the same error as before. This time the problem was because the sratools i
 
 To uninstall i again used the command `conda uninstall sra-tools`
 
-The Bioconda page which was last updated one month ago had the most updated version
+The Bioconda page which was last updated one month ago had the most updated version.
+
+I created an environment that would house the sra-tools as well as its dependencies.
+
+`conda create -n sra-tools` and used the command `conda activate sra-tools` to get into the environment to download the sra-toolkit package.
+
+I used the command `conda -c bioconda sra-tools`
+
+I then changed directories to Documents because that is where i waanted my sequences to be downloaded. `cd Documents`
+
+To download my sequences i used the command ` prefetch SRR23800501 SRR23044203 SRR23044204 SRR23044205 SRR23100674`
+
+
 
 
