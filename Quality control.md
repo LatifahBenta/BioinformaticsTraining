@@ -44,3 +44,64 @@ The Bioconda page which was last updated one month ago had the most updated vers
 
 
 
+mlst.sh: line 4: fastqc: command not found
+quality
+mlst.sh: line 6: flye: command not found
+assembled
+[11:40:23] This is mlst 2.23.0 running on linux with Perl 5.032001
+[11:40:23] Checking mlst dependencies:
+[11:40:23] Found 'blastn' => /home/administrator/miniconda3/envs/MLST/bin/blastn
+[11:40:23] Found 'any2fasta' => /home/administrator/miniconda3/envs/MLST/bin/any2fasta
+[11:40:23] Found blastn: 2.14.1+ (002014)
+[11:40:23] Please provide some FASTA/Genbank files to genotype (can be .gz)
+Typed
+mlst.sh: line 4: fastqc: command not found
+quality
+mlst.sh: line 6: flye: command not found
+assembled
+[11:40:23] This is mlst 2.23.0 running on linux with Perl 5.032001
+[11:40:23] Checking mlst dependencies:
+[11:40:23] Found 'blastn' => /home/administrator/miniconda3/envs/MLST/bin/blastn
+[11:40:23] Found 'any2fasta' => /home/administrator/miniconda3/envs/MLST/bin/any2fasta
+[11:40:23] Found blastn: 2.14.1+ (002014)
+[11:40:23] Please provide some FASTA/Genbank files to genotype (can be .gz)
+Typed
+mlst.sh: line 4: fastqc: command not found
+quality
+mlst.sh: line 6: flye: command not found
+assembled
+[11:40:23] This is mlst 2.23.0 running on linux with Perl 5.032001
+[11:40:23] Checking mlst dependencies:
+[11:40:23] Found 'blastn' => /home/administrator/miniconda3/envs/MLST/bin/blastn
+[11:40:23] Found 'any2fasta' => /home/administrator/miniconda3/envs/MLST/bin/any2fasta
+[11:40:23] Found blastn: 2.14.1+ (002014)
+[11:40:23] Please provide some FASTA/Genbank files to genotype (can be .gz)
+Typed
+mlst.sh: line 4: fastqc: command not found
+quality
+mlst.sh: line 6: flye: command not found
+assembled
+[11:40:23] This is mlst 2.23.0 running on linux with Perl 5.032001
+[11:40:23] Checking mlst dependencies:
+[11:40:23] Found 'blastn' => /home/administrator/miniconda3/envs/MLST/bin/blastn
+[11:40:23] Found 'any2fasta' => /home/administrator/miniconda3/envs/MLST/bin/any2fasta
+[11:40:23] Found blastn: 2.14.1+ (002014)
+[11:40:23] Please provide some FASTA/Genbank files to genotype (can be .gz)
+Typed
+mlst.sh: line 4: fastqc: command not found
+quality
+mlst.sh: line 6: flye: command not found
+assembled
+[11:40:23] This is mlst 2.23.0 running on linux with Perl 5.032001
+[11:40:23] Checking mlst dependencies:
+[11:40:23] Found 'blastn' => /home/administrator/miniconda3/envs/MLST/bin/blastn
+[11:40:23] Found 'any2fasta' => /home/administrator/miniconda3/envs/MLST/bin/any2fasta
+[11:40:23] Found blastn: 2.14.1+ (002014)
+[11:40:23] Please provide some FASTA/Genbank files to genotype (can be .gz)
+Typed
+
+
+
+
+
+
