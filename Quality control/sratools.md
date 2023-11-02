@@ -50,6 +50,15 @@ I then changed directories to Documents because that is where i waanted my seque
 
 To download my sequences i used the command ` prefetch SRR23800501 SRR23044203 SRR23044204 SRR23044205 SRR23100674`
 
+After downloading we need to extract the files. For this we use the commands `fastq-dump` or `fasterq-dump` however `fasterq-dump` is much faster than `fastq-dump`
+
+The command `fasterq-dump SRR23800501 SRR23044203 SRR23044204 SRR23044205 SRR23100674`
+
+Now we have **.fastq** version of the sequences we had downloaded.
+
+
+
+
 
 
 
