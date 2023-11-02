@@ -39,3 +39,5 @@ I got the same error as before. This time the problem was because the sratools i
 To uninstall i again used the command `conda uninstall sra-tools`
 
 The Bioconda page which was last updated one month ago had the most updated version
+
+
